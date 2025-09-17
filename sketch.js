@@ -1,6 +1,6 @@
 // in another life 
 // digital poem by aileen lian
-// sept 2023
+// sept 2023; updated 2025
 
 //----------------------------------------------------//
 
