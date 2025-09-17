@@ -48,6 +48,12 @@ var phrase1 = [
     "i hold the door open for you",
     "i meet you at a coffee shop",
     "i see you at a museum",
+    "i tell you what's on my mind", 
+    "i tell you what's actually on my mind", 
+    "i show you what i'm working on", 
+    "i tell you how i feel", 
+    "i'm ready when you are", 
+    
     
 ];
 
@@ -87,6 +93,12 @@ var phrase2 = [
     "you change my windshield wipers for me",
     "you ask if you can hold my hand",
     "you kiss the freckles on my nose",
+    "you tell me what's on your mind", 
+    "you tell me what's actually on your mind", 
+    "you tell me how you're feeling", 
+    "you ask me to come with you",
+    "you write me little notes", 
+    "you invite me over for dinner", 
     
 ];
 
@@ -126,6 +138,10 @@ var phrase3 = [
     "we go for walks during golden hour",
     "we contemplate moving to ireland",
     "we eat ice cream for dinner",
+    "we learn how to be soft with each other", 
+    "we make up for lost time", 
+    "we're not afraid of getting old", 
+    "we dance around my apartment", 
     
 ];
 
