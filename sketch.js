@@ -54,7 +54,6 @@ var phrase1 = [
     "i tell you how i feel", 
     "i'm ready when you are", 
     
-    
 ];
 
 var phrase2 = [
@@ -70,7 +69,6 @@ var phrase2 = [
     "you call me when you’re driving", 
     "you always kiss me good morning",
     "you always kiss me good night",
-    "you watch the bachelorette with me on mondays",
     "you bring me soup when i'm sick",
     "you let me have the bigger piece",
     "you grab dinner for us on your way home",
@@ -99,6 +97,8 @@ var phrase2 = [
     "you ask me to come with you",
     "you write me little notes", 
     "you invite me over for dinner", 
+    "you ask me to come over", 
+    "you like wearing my sweaters", 
     
 ];
 
