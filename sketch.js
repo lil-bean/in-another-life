@@ -34,7 +34,7 @@ var phrase1 = [
     "i stay in san diego",
     "i meet you at a bar",
     "i know how you take your tea",
-    "i wear your t-shirts to sleep",
+    "i fall asleep in your t-shirt",
     "i sing you silly songs when i'm sleepy",
     "i read you angsty poetry from my notes app",
     "i buy you brunch",
@@ -98,7 +98,8 @@ var phrase2 = [
     "you write me little notes", 
     "you invite me over for dinner", 
     "you ask me to come over", 
-    "you like wearing my sweaters", 
+    "you help me install my new air conditioner", 
+    "you take me to the movies", 
     
 ];
 
@@ -116,7 +117,7 @@ var phrase3 = [
     "we're better at being vulnerable with each other",  
     "we roll down the hills at storm king",
     "we stay up late talking about our parents",
-    "we picnic in our favorite park",
+    "we picnic at our favorite park",
     "we eat breakfast for dinner",
     "we have a hammock in our backyard",
     "we file our taxes early every year",
@@ -141,7 +142,8 @@ var phrase3 = [
     "we learn how to be soft with each other", 
     "we make up for lost time", 
     "we're not afraid of getting old", 
-    "we dance around my apartment", 
+    "we dance around my apartment in our underwear", 
+    "we dance around our apartment in our underwear",
     
 ];
 
