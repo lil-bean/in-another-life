@@ -44,7 +44,7 @@ var phrase1 = [
     "i forget my scarf at your apartment",
     "i kiss you at midnight",
     "i sing you a song i wrote",
-    "i tell you that i miss you",
+    "i tell you i miss you",
     "i hold the door open for you",
     "i meet you at a coffee shop",
     "i see you at a museum",
