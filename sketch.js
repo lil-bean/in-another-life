@@ -76,7 +76,7 @@ var phrase2 = [
     "you pick up my laundry for me",
     "you buy me dinner",
     "you meet me at my subway stop",
-    "you tell me that you love me",
+    "you tell me you love me",
     "you pick me up from the airport",
     "you sing to me in the car",
     "you know what you want",
